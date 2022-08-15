@@ -1,0 +1,27 @@
+{"data":
+[
+    {
+        "url": "url goes here",
+        "title": "my website title",
+        "username_element_name" : "user_id",
+        "password_element_name" : "password",
+        "username" : "xornrdhvl",
+        "password": "qwer1234",
+        "target_urls": [ "url goes here",
+         "url goes here"
+        ]
+    },
+   {
+        "url": "url goes here",
+        "title":  "my website title",
+        "username_element_name" : "user_id",
+        "password_element_name" : "password",
+        "username" : "xornrdhvl",
+        "password": "qwer1234",
+        "target_urls": [ "url goes here",
+         "url goes here"
+        ]
+    },
+
+]
+}
