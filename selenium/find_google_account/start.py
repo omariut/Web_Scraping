@@ -18,7 +18,7 @@ def authentication():
     ip = current_machine_id
     print(f'Your IP is {ip}')
     print("\n")
-    url = f'http://sunnyislam.pythonanywhere.com/members/verification?uuid={ip}'
+    url = f'http://google.com?uuid={ip}'
     data = requests.get(url)
     data = data.json()
     if data['message'] == 'okay':
